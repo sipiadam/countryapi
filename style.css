@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 2rem;
+    background: #f0f0f0;
+}
+
+h1 {
+    margin-bottom: 1.5rem;
+}
+
+#kartya {
+    background: white;
+    display: inline-block;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    min-width: 280px;
+    margin-bottom: 1rem;
+}
+
+#zaszlo {
+    width: 200px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+}
+
+p {
+    margin: 0.4rem 0;
+    font-size: 15px;
+}
+
+#gomb {
+    padding: 10px 24px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+}
